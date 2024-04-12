@@ -1,2 +1,2 @@
-# click here (https://tribute-page-three-nu.vercel.app/) to visit the page
+# click here (https://jyotiprakash25.github.io/tribute-page/) to visit the page
 ## tribute page
